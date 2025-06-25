@@ -40,3 +40,66 @@ a {
     color-scheme: dark;
   }
 }
+
+.dark-mode {
+  background: #181828 !important;
+  color: #ededed !important;
+}
+
+.dark-mode .card,
+.dark-mode .bg-white,
+.dark-mode .carousel-inner {
+  background: rgba(24, 24, 40, 0.95) !important;
+  color: #ededed !important;
+  border-color: rgba(255,255,255,0.08) !important;
+}
+
+.dark-mode .btn,
+.dark-mode .btn-primary,
+.dark-mode .btn-outline-primary,
+.dark-mode .btn-success,
+.dark-mode .btn-warning {
+  background: rgba(255,255,255,0.08) !important;
+  color: #ededed !important;
+  border-color: rgba(255,255,255,0.15) !important;
+}
+
+.dark-mode .form-control,
+.dark-mode textarea,
+.dark-mode input {
+  background: #23233a !important;
+  color: #ededed !important;
+  border-color: rgba(255,255,255,0.12) !important;
+}
+
+.dark-mode .navbar,
+.dark-mode .sticky-top {
+  background: linear-gradient(135deg, #23233a 0%, #3a3a5a 100%) !important;
+  border-bottom: 1px solid rgba(255,255,255,0.08) !important;
+}
+
+.dark-mode .text-dark {
+  color: #ededed !important;
+}
+
+.dark-mode .text-muted {
+  color: #b0b0c3 !important;
+}
+
+.dark-mode .shadow,
+.dark-mode .shadow-sm,
+.dark-mode .shadow-lg {
+  box-shadow: 0 4px 32px rgba(0,0,0,0.5) !important;
+}
+
+.dark-mode .carousel-control-prev,
+.dark-mode .carousel-control-next {
+  background: rgba(40,40,60,0.7) !important;
+  border: 1px solid rgba(255,255,255,0.12) !important;
+}
+
+.dark-mode .badge {
+  background: linear-gradient(45deg, #23233a, #3a3a5a) !important;
+  color: #ededed !important;
+  border: 1px solid rgba(255,255,255,0.12) !important;
+}
