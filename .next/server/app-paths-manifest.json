@@ -1,0 +1,12 @@
+{
+  "/admin/page": "app/admin/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/feedback/page": "app/feedback/page.js",
+  "/legal/page": "app/legal/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/sponsor-management/page": "app/sponsor-management/page.js",
+  "/sponsor/page": "app/sponsor/page.js"
+}

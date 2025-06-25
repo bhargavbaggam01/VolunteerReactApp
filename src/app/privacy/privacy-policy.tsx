@@ -4,7 +4,7 @@ import React from 'react';
 export default function PrivacyPolicy() {
   return (
     <div className="container py-5">
-      <h1 justify-align="center">Lorem Ipsum</h1>
+      <h1 >Lorem Ipsum</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pulvinar a ligula id tempus. Nullam at lectus ultrices, mattis ipsum sit amet, mollis nunc. In accumsan ut felis lacinia venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque tempor interdum turpis eget tincidunt. Donec malesuada turpis eget metus dapibus, aliquam ultrices eros maximus. Duis ac consectetur neque, sit amet tincidunt lacus. Donec nec posuere urna. Nunc vel eros ac magna fringilla interdum sit amet vel mauris. Maecenas interdum dapibus lectus eget commodo.
 
 Quisque luctus id ipsum id lacinia. Suspendisse ac erat odio. Curabitur in finibus magna. Donec vel diam finibus, tincidunt dui ut, iaculis sapien. Pellentesque elit ipsum, egestas id lacus vitae, scelerisque porttitor tortor. Etiam placerat malesuada pharetra. Nulla neque dolor, tristique eget vulputate ac, pellentesque sit amet diam. Morbi rhoncus mollis ipsum, et feugiat sem aliquam quis. Sed porttitor viverra velit quis commodo. Vivamus viverra sem eget elit faucibus feugiat. Quisque tempor leo ipsum, non suscipit libero fringilla et. Nulla nulla neque, pulvinar sit amet odio sed, tincidunt finibus ex. Etiam pretium ipsum et lectus venenatis, in volutpat velit pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
